@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to Go Tutorials | Best Collection 👋</h1>
+<h1 align="center">Tutorials & Learning Resources for Golang</h1>
 <p>
   <a href="https://twitter.com/haysstanford" target="_blank">
     <img alt="Twitter: haysstanford" src="https://img.shields.io/twitter/follow/haysstanford.svg?style=social" />
