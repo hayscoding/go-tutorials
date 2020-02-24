@@ -1,0 +1,3 @@
+[submodule "go-rest-api"]
+	path = go-rest-api
+	url = git@github.com:HaysS/go-rest-api.git
